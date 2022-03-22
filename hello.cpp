@@ -15,3 +15,7 @@ int main()
 	cout<<"hello world"<<endl;
 // last comment
 }
+//adding functuon def here
+void getdata()
+{
+}
