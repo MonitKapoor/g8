@@ -7,6 +7,7 @@ class Stu
 	public:
 		Stu(){}
 		void getdata(){}
+		void putdata(){}
 
 };
 
@@ -16,6 +17,9 @@ int main()
 // last comment
 }
 //adding functuon def here
-void getdata()
+void Stu::getdata()
+{
+}
+void Stu:: putdata()
 {
 }
